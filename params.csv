@@ -1,0 +1,6 @@
+Param_Name,Param_Value
+Param_Default_AVF_SBU_SDC,0.17
+Param_Default_AVF_SBU_DUE,0.4
+Param_Default_AVF_MBU_SDC,0.05
+Param_Default_AVF_MBU_DUE,0.2
+Param_Default_AVF_SEQ,0.12

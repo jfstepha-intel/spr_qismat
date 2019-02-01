@@ -1,0 +1,26 @@
+Cluster,Block,FUB Name,Circuit Subtype,Instances,Design Style,Circuit Topology,Port Configuration,TDF,Logic TDF,Operating Voltage,Temperature,Altitude,Flop/Latch Protection
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fvn003xl2n02x5,143,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fvn003xl1n02x5,118,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fkn000xl2n02x5,32,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fkn000xl1n02x5,19,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fkn200xl1d02x5,19,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fkn200xl2d02x5,15,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fvn003xl2n03x5,13,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fvn003xl1n03x5,11,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn003al2n06x5,9,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fvn003xl1n04x5,8,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fvn003xl2n04x5,7,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn00cal2d02x5,6,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn00cal1d02x5,4,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn003al1n06x5,3,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fkn200xl1d04x5,3,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn00fal1d04x5,3,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fmw203al1n04x5,2,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fkn000xl2n04x5,1,FLOP,RTS,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn00cal1d03x5,1,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn003al1n04x5,1,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn00cal2d06x5,1,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn003al2n02x5,1,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn043al2d06x5,1,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn00fal2d04x5,1,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
+pmsrvr_pmax_top,pmsrvr_pmax_top,pmsrvr_pmax_top,ec0fyn003al1n02x5,1,FLOP,STD,N/A,0.5,1,0.8,110,0.9,NONE
