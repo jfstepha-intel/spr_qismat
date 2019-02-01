@@ -10,8 +10,8 @@ pd.set_option('display.max_columns', 20)
 pd.set_option('display.width', 160)
 
 #####
-reload_FIT_tables = True
-reload_comp_libs = True
+reload_FIT_tables = False
+reload_comp_libs = False
 add_one_comp_lib = False
 
 excel_file = r'spr_fit_tables(JStephan)19ww04.xlsx'
