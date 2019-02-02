@@ -1,0 +1,3 @@
+[submodule "pyQismat"]
+	path = pyQismat
+	url = https://gitlab.devtools.intel.com/jfstepha/pyQismat.git
