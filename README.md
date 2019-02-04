@@ -10,8 +10,9 @@
   - In bash window: (Windows Start->GIT bash)
     ```
     cd your/project/directory
-    git clone https://gitlab.devtools.intel.com/jfstepha/pyQismat.git pyQISMAT
+    git clone ssh://git@gitlab.devtools.intel.com:29418/jfstepha/pyQismat.git pyQISMAT
     git submodule init
     git submodule update
     ```
 - PyCharm ->  settings -> Project -> project structure 
+
