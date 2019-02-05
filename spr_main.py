@@ -1,4 +1,3 @@
-import sys
 import pandas as pd
 import pickle
 import QISMAT
@@ -91,6 +90,7 @@ if reload_FIT_tables or reload_comp_libs:
     my_read_arch_comp_lib(q, "cha_chassisp")
     my_read_arch_comp_lib(q, "cha_datap")
     my_read_arch_comp_lib(q, "cha_pldp")
+    my_read_arch_comp_lib_syn(q, "mcfivr")
 
     with open('spr_with_comp_lib.pkl', 'wb') as f: pickle.dump(q, f, pickle.HIGHEST_PROTOCOL)
 else:
@@ -99,6 +99,15 @@ else:
 if add_one_comp_lib:
     with open('spr_with_comp_lib.pkl', 'rb') as f: q = pickle.load(f)
     with open('spr_with_comp_lib.pkl', 'wb') as f: pickle.dump(q, f, pickle.HIGHEST_PROTOCOL)
+
+if 'P_hier_seq' in q.sheet_list.keys():
+    del q.sheet_list['P_hier_seq']
+q.create_ArchProductRollup('P_hier_seq')
+q.sheet_list['P_hier_seq'].read_csv('sprxcc_hier.csv')
+q.sheet_list['P_hier_seq'].blank_col_header_rows()
+q.sheet_list['P_hier_seq'].calc()
+q.sheet_list['P_hier_seq'].QISMAT_print(maxrow=20, cols=['Unit_Name','Subunit_Src_Sheet','Subunit_Name','Instance_Count','Total_SDC','Total_DUE'])
+
 
 if 'P_subsystems' in q.sheet_list.keys():
     del q.sheet_list['P_subsystems']

@@ -14,5 +14,5 @@
     git submodule init
     git submodule update
     ```
-- PyCharm ->  settings -> Project -> project structure 
+- PyCharm ->  settings -> Project -> project structure -> right click on pyQismat in the center pane, and select "sources"
 

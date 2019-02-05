@@ -1,0 +1,362 @@
+,name,template,physical_parent,date,time,path,level,Unit_Name,Subunit_Src_Sheet,Subunit_Name,comment
+147,,,cpm_top,,,,5,cpm_top,,,
+148,parcpmaram,parcpmaram,cpm_top,2019-01-15,22:42:14.185216000,/p/hdk/archive/sdg74/noa/parcpmaram/apr_noa/SNRB0_SC__VER_5/apr/outputs/parcpmaram.apr_final.vg.gz,5,cpm_top,F_parcpmaram,parcpmaram,No Subcell
+149,parcpmcast1,parcpmcast1,cpm_top,2019-01-15,13:09:48.165434000,/p/hdk/archive/sdg74/noa/parcpmcast1/apr_noa/SNRB0_SC__VER_7/apr/outputs/parcpmcast1.apr_final.vg.gz,5,cpm_top,F_parcpmcast1,parcpmcast1,No Subcell
+150,parcpmhi,parcpmhi,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmhi,parcpmhi,No Subcell
+151,parcpmssma_xa,parcpmssma_xa,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssma_xa,parcpmssma_xa,No Subcell
+152,parcpmssmb,parcpmssmb,cpm_top,2019-01-16,20:45:23.812481000,/p/hdk/archive/sdg74/noa/parcpmssmb/apr_noa/SNRB0_SC__VER_9/apr/outputs/parcpmssmb.apr_final.vg.gz,5,cpm_top,F_parcpmssmb,parcpmssmb,No Subcell
+153,parcpmssmc_xa_0,parcpmssmc_xa,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssmc_xa,parcpmssmc_xa,No Subcell
+154,parcpmssmc_xa_1,parcpmssmc_xa,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssmc_xa,parcpmssmc_xa,No Subcell
+155,parcpmssmd_xa,parcpmssmd_xa,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssmd_xa,parcpmssmd_xa,No Subcell
+156,parcpmssme_xa,parcpmssme_xa,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssme_xa,parcpmssme_xa,No Subcell
+157,parcpmssmf_0,parcpmssmf,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssmf,parcpmssmf,No Subcell
+158,parcpmssmf_1,parcpmssmf,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssmf,parcpmssmf,No Subcell
+159,parcpmssmf_2,parcpmssmf,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssmf,parcpmssmf,No Subcell
+160,parcpmssmf_3,parcpmssmf,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssmf,parcpmssmf,No Subcell
+161,parcpmssmg_xa,parcpmssmg_xa,cpm_top,NOT FOUND,NOT FOUND,NOT FOUND,5,cpm_top,F_parcpmssmg_xa,parcpmssmg_xa,No Subcell
+183,,,dino,,,,5,dino,,,
+184,pardinomisc,pardinomisc,dino,NOT FOUND,NOT FOUND,NOT FOUND,5,dino,F_pardinomisc,pardinomisc,No Subcell
+185,pardsa,pardsa,dino,NOT FOUND,NOT FOUND,NOT FOUND,5,dino,F_pardsa,pardsa,No Subcell
+186,pariax1,pariax1,dino,NOT FOUND,NOT FOUND,NOT FOUND,5,dino,F_pariax1,pariax1,No Subcell
+187,pariax2,pariax2,dino,NOT FOUND,NOT FOUND,NOT FOUND,5,dino,F_pariax2,pariax2,No Subcell
+188,pariax3,pariax3,dino,NOT FOUND,NOT FOUND,NOT FOUND,5,dino,F_pariax3,pariax3,No Subcell
+189,parnrthpk,parnrthpk,dino,2018-03-23,16:53:46.321667000,/p/hdk/archive/sdg74/noa/parnrthpk/apr_noa/ICXSPXCCA0_IIN_VER_33/apr/outputs/parnrthpk.apr_final.vg.gz,5,dino,F_parnrthpk,parnrthpk,No Subcell
+190,parpsf,parpsf,dino,2018-03-26,11:13:18.922017000,/p/hdk/archive/sdg74/noa/parpsf/apr_noa/ICXSPXCCB0LATEST/apr/outputs/parpsf.apr_final.vg.gz,5,dino,F_parpsf,parpsf,No Subcell
+162,,,hqm,,,,5,hqm,,,
+163,par_hqm_credit_hist_pipe,par_hqm_credit_hist_pipe,hqm,NOT FOUND,NOT FOUND,NOT FOUND,5,hqm,F_par_hqm_credit_hist_pipe,par_hqm_credit_hist_pipe,No Subcell
+164,par_hqm_dir_pipe,par_hqm_dir_pipe,hqm,NOT FOUND,NOT FOUND,NOT FOUND,5,hqm,F_par_hqm_dir_pipe,par_hqm_dir_pipe,No Subcell
+165,par_hqm_dqed_pipe,par_hqm_dqed_pipe,hqm,NOT FOUND,NOT FOUND,NOT FOUND,5,hqm,F_par_hqm_dqed_pipe,par_hqm_dqed_pipe,No Subcell
+166,par_hqm_iosf,par_hqm_iosf,hqm,NOT FOUND,NOT FOUND,NOT FOUND,5,hqm,F_par_hqm_iosf,par_hqm_iosf,No Subcell
+167,par_hqm_list_sel_pipe,par_hqm_list_sel_pipe,hqm,NOT FOUND,NOT FOUND,NOT FOUND,5,hqm,F_par_hqm_list_sel_pipe,par_hqm_list_sel_pipe,No Subcell
+168,par_hqm_nalb_pipe,par_hqm_nalb_pipe,hqm,NOT FOUND,NOT FOUND,NOT FOUND,5,hqm,F_par_hqm_nalb_pipe,par_hqm_nalb_pipe,No Subcell
+169,par_hqm_qed_pipe,par_hqm_qed_pipe,hqm,NOT FOUND,NOT FOUND,NOT FOUND,5,hqm,F_par_hqm_qed_pipe,par_hqm_qed_pipe,No Subcell
+170,par_hqm_system,par_hqm_system,hqm,NOT FOUND,NOT FOUND,NOT FOUND,5,hqm,F_par_hqm_system,par_hqm_system,No Subcell
+194,,,scf_ubox,,,,5,scf_ubox,,,
+195,cms3_tall_ubox,cms3_tall,scf_ubox,NOT FOUND,NOT FOUND,NOT FOUND,5,scf_ubox,F_cms3_tall,cms3_tall,No Subcell
+196,scf_ubox_miscpar,scf_ubox_miscpar,scf_ubox,NOT FOUND,NOT FOUND,NOT FOUND,5,scf_ubox,F_scf_ubox_miscpar,scf_ubox_miscpar,No Subcell
+197,uboxpar,uboxpar,scf_ubox,NOT FOUND,NOT FOUND,NOT FOUND,5,scf_ubox,F_uboxpar,uboxpar,No Subcell
+78,,,cha_pldp,,,,4,cha_pldp,,,
+79,cha_cbingr_queues_bam,cha_cbingr_queues_bam,cha_pldp,NOT FOUND,NOT FOUND,NOT FOUND,4,cha_pldp,F_cha_cbingr_queues_bam,cha_cbingr_queues_bam,No Subcell
+142,,,hca,,,,4,hca,,,
+143,cpm_top,cpm_top,hca,NOT FOUND,NOT FOUND,NOT FOUND,4,hca,P_hier_seq,cpm_top,sub_template:hca
+144,hqm,hqm,hca,NOT FOUND,NOT FOUND,NOT FOUND,4,hca,P_hier_seq,hqm,sub_template:hca
+145,parhcachassis,parhcachassis,hca,NOT FOUND,NOT FOUND,NOT FOUND,4,hca,F_parhcachassis,parhcachassis,No Subcell
+146,parhcapsf,parhcapsf,hca,NOT FOUND,NOT FOUND,NOT FOUND,4,hca,F_parhcapsf,parhcapsf,No Subcell
+109,,,ibl_ss,,,,4,ibl_ss,,,
+110,pariblcse,pariblcse,ibl_ss,NOT FOUND,NOT FOUND,NOT FOUND,4,ibl_ss,F_pariblcse,pariblcse,No Subcell
+111,pariblmem,pariblmem,ibl_ss,NOT FOUND,NOT FOUND,NOT FOUND,4,ibl_ss,F_pariblmem,pariblmem,No Subcell
+112,pariblsb,pariblsb,ibl_ss,NOT FOUND,NOT FOUND,NOT FOUND,4,ibl_ss,F_pariblsb,pariblsb,No Subcell
+113,paribluc,paribluc,ibl_ss,NOT FOUND,NOT FOUND,NOT FOUND,4,ibl_ss,F_paribluc,paribluc,No Subcell
+114,parshimtop,parshimtop,ibl_ss,NOT FOUND,NOT FOUND,NOT FOUND,4,ibl_ss,F_parshimtop,parshimtop,No Subcell
+80,,,llcp,,,,4,llcp,,,
+81,cha_llsprdatamiddp11s66,cha_llsprdatamiddp11s66,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_llsprdatamiddp11s66,cha_llsprdatamiddp11s66,No Subcell
+82,cha_llsprdatamiddp11s72,cha_llsprdatamiddp11s72,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_llsprdatamiddp11s72,cha_llsprdatamiddp11s72,No Subcell
+83,cha_llsprlruary11s15w,cha_llsprlruary11s15w,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_llsprlruary11s15w,cha_llsprlruary11s15w,No Subcell
+84,cha_llsprstcvbnkx11s20c,cha_llsprstcvbnkx11s20c,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_llsprstcvbnkx11s20c,cha_llsprstcvbnkx11s20c,No Subcell
+85,cha_llsprtagbnk11s35t,cha_llsprtagbnk11s35t,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_llsprtagbnk11s35t,cha_llsprtagbnk11s35t,No Subcell
+86,cha_llsprtwolmary11s15w,cha_llsprtwolmary11s15w,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_llsprtwolmary11s15w,cha_llsprtwolmary11s15w,No Subcell
+87,cha_rsfsprtagbnk11s35t,cha_rsfsprtagbnk11s35t,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_rsfsprtagbnk11s35t,cha_rsfsprtagbnk11s35t,No Subcell
+88,cha_sfsprlruary11s25w,cha_sfsprlruary11s25w,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_sfsprlruary11s25w,cha_sfsprlruary11s25w,No Subcell
+89,cha_sfsprtwolmary11s25w,cha_sfsprtwolmary11s25w,llcp,NOT FOUND,NOT FOUND,NOT FOUND,4,llcp,F_cha_sfsprtwolmary11s25w,cha_sfsprtwolmary11s25w,No Subcell
+40,,,mcchanddr,,,,4,mcchanddr,,,
+41,parmc2lmddr,parmc2lmddr,mcchanddr,NOT FOUND,NOT FOUND,NOT FOUND,4,mcchanddr,F_parmc2lmddr,parmc2lmddr,No Subcell
+42,parmcdpddr,parmcdpddr,mcchanddr,NOT FOUND,NOT FOUND,NOT FOUND,4,mcchanddr,F_parmcdpddr,parmcdpddr,No Subcell
+43,parmcscbsddr,parmcscbsddr,mcchanddr,NOT FOUND,NOT FOUND,NOT FOUND,4,mcchanddr,F_parmcscbsddr,parmcscbsddr,No Subcell
+44,parmcscpqddr,parmcscpqddr,mcchanddr,NOT FOUND,NOT FOUND,NOT FOUND,4,mcchanddr,F_parmcscpqddr,parmcscpqddr,No Subcell
+45,,,mcchanddr,,,,4,mcchanddr,,,
+46,parmc2lmddr,parmc2lmddr,mcchanddr,NOT FOUND,NOT FOUND,NOT FOUND,4,mcchanddr,F_parmc2lmddr,parmc2lmddr,No Subcell
+47,parmcdpddr,parmcdpddr,mcchanddr,NOT FOUND,NOT FOUND,NOT FOUND,4,mcchanddr,F_parmcdpddr,parmcdpddr,No Subcell
+48,parmcscbsddr,parmcscbsddr,mcchanddr,NOT FOUND,NOT FOUND,NOT FOUND,4,mcchanddr,F_parmcscbsddr,parmcscbsddr,No Subcell
+49,parmcscpqddr,parmcscpqddr,mcchanddr,NOT FOUND,NOT FOUND,NOT FOUND,4,mcchanddr,F_parmcscpqddr,parmcscpqddr,No Subcell
+230,,,mdf_s_h_0,,,,4,mdf_s_h_0,,,
+231,mdfs_hchnlp,mdfs_hchnlp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_h_0,F_mdfs_hchnlp,mdfs_hchnlp,No Subcell
+232,mdfs_hcp,mdfs_hcp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_h_0,F_mdfs_hcp,mdfs_hcp,No Subcell
+233,mdfs_hdatap,mdfs_hdatap,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_h_0,F_mdfs_hdatap,mdfs_hdatap,No Subcell
+234,mdfs_hpldp,mdfs_hpldp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_h_0,F_mdfs_hpldp,mdfs_hpldp,No Subcell
+276,,,mdf_s_v_0,,,,4,mdf_s_v_0,,,
+277,mdfs_vchnlp,mdfs_vchnlp,mdf_s_v_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_v_0,F_mdfs_vchnlp,mdfs_vchnlp,No Subcell
+278,mdfs_vcp,mdfs_vcp,mdf_s_v_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_v_0,F_mdfs_vcp,mdfs_vcp,No Subcell
+279,mdfs_vdatap,mdfs_vdatap,mdf_s_v_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_v_0,F_mdfs_vdatap,mdfs_vdatap,No Subcell
+280,mdfs_vpldp,mdfs_vpldp,mdf_s_v_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_v_0,F_mdfs_vpldp,mdfs_vpldp,No Subcell
+287,,,mdf_s_v_0,,,,4,mdf_s_v_0,,,
+288,mdfs_vchnlp,mdfs_vchnlp,mdf_s_v_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_v_0,F_mdfs_vchnlp,mdfs_vchnlp,No Subcell
+289,mdfs_vcp,mdfs_vcp,mdf_s_v_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_v_0,F_mdfs_vcp,mdfs_vcp,No Subcell
+290,mdfs_vdatap,mdfs_vdatap,mdf_s_v_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_v_0,F_mdfs_vdatap,mdfs_vdatap,No Subcell
+291,mdfs_vpldp,mdfs_vpldp,mdf_s_v_0,NOT FOUND,NOT FOUND,NOT FOUND,4,mdf_s_v_0,F_mdfs_vpldp,mdfs_vpldp,No Subcell
+50,,,parmcdddcacheddr,,,,4,parmcdddcacheddr,,,
+51,dd_cha_lldatamiddp76,dd_cha_lldatamiddp76,parmcdddcacheddr,NOT FOUND,NOT FOUND,NOT FOUND,4,parmcdddcacheddr,F_dd_cha_lldatamiddp76,dd_cha_lldatamiddp76,No Subcell
+52,dd_dc_dlr,dd_dc_dlr,parmcdddcacheddr,NOT FOUND,NOT FOUND,NOT FOUND,4,parmcdddcacheddr,F_dd_dc_dlr,dd_dc_dlr,No Subcell
+53,dd_dc_drc,dd_dc_drc,parmcdddcacheddr,NOT FOUND,NOT FOUND,NOT FOUND,4,parmcdddcacheddr,F_dd_dc_drc,dd_dc_drc,No Subcell
+54,dd_dctagbnk11s30t,dd_dctagbnk11s30t,parmcdddcacheddr,NOT FOUND,NOT FOUND,NOT FOUND,4,parmcdddcacheddr,F_dd_dctagbnk11s30t,dd_dctagbnk11s30t,No Subcell
+55,,,parmcddtcachemddr,,,,4,parmcddtcachemddr,,,
+56,dd_tc_tlrd,dd_tc_tlrd,parmcddtcachemddr,NOT FOUND,NOT FOUND,NOT FOUND,4,parmcddtcachemddr,F_dd_tc_tlrd,dd_tc_tlrd,No Subcell
+57,dd_tctagbnk11s29t,dd_tctagbnk11s29t,parmcddtcachemddr,NOT FOUND,NOT FOUND,NOT FOUND,4,parmcddtcachemddr,F_dd_tctagbnk11s29t,dd_tctagbnk11s29t,No Subcell
+58,,,parmcddtcachenddr,,,,4,parmcddtcachenddr,,,
+59,dd_tcache_datamiddp_wrapper,dd_tcache_datamiddp_wrapper,parmcddtcachenddr,NOT FOUND,NOT FOUND,NOT FOUND,4,parmcddtcachenddr,F_dd_tcache_datamiddp_wrapper,dd_tcache_datamiddp_wrapper,No Subcell
+235,,,pi5,,,,4,pi5,,,
+236,hsphy_wrapper0,hsphy_wrapper0,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_hsphy_wrapper0,hsphy_wrapper0,No Subcell
+237,hsphy_wrapper1,hsphy_wrapper1,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_hsphy_wrapper1,hsphy_wrapper1,No Subcell
+238,par_arbmux,par_arbmux,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_par_arbmux,par_arbmux,No Subcell
+239,par_fblptx,par_fblptx,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_par_fblptx,par_fblptx,No Subcell
+240,par_fblpvn,par_fblpvn,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_par_fblpvn,par_fblpvn,No Subcell
+241,par_ialcm_dp_top,par_ialcm_dp_top,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_par_ialcm_dp_top,par_ialcm_dp_top,No Subcell
+242,par_pcie5x8ll,par_pcie5x8ll,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_par_pcie5x8ll,par_pcie5x8ll,No Subcell
+243,par_pcie5x8tlrx,par_pcie5x8tlrx,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_par_pcie5x8tlrx,par_pcie5x8tlrx,No Subcell
+244,par_pcie5x8tltx,par_pcie5x8tltx,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_par_pcie5x8tltx,par_pcie5x8tltx,No Subcell
+245,parfblp,parfblp,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parfblp,parfblp,No Subcell
+246,parpi5gen4ll,parpi5gen4ll,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parpi5gen4ll,parpi5gen4ll,No Subcell
+247,parpi5gen4pl,parpi5gen4pl,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parpi5gen4pl,parpi5gen4pl,No Subcell
+248,parpi5gen4tl,parpi5gen4tl,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parpi5gen4tl,parpi5gen4tl,No Subcell
+249,parpi5gen5ll,parpi5gen5ll,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parpi5gen5ll,parpi5gen5ll,No Subcell
+250,parpi5gen5tlrx,parpi5gen5tlrx,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parpi5gen5tlrx,parpi5gen5tlrx,No Subcell
+251,parpi5gen5tltx,parpi5gen5tltx,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parpi5gen5tltx,parpi5gen5tltx,No Subcell
+252,parpi5misc,parpi5misc,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parpi5misc,parpi5misc,No Subcell
+253,parpi5psf,parpi5psf,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parpi5psf,parpi5psf,No Subcell
+254,parvnlpif,parvnlpif,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parvnlpif,parvnlpif,No Subcell
+255,parvnpipe,parvnpipe,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_parvnpipe,parvnpipe,No Subcell
+256,phb_vccfc,phb_vccfc,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_phb_vccfc,phb_vccfc,No Subcell
+257,phb_vinf,phb_vinf,pi5,NOT FOUND,NOT FOUND,NOT FOUND,4,pi5,F_phb_vinf,phb_vinf,No Subcell
+115,,,punit,,,,4,punit,,,
+116,pmsrvr_arrayp,pmsrvr_arrayp,punit,2017-11-29,06:32:26.483555000,/p/hdk/archive/sdg74/noa/pmsrvr_arrayp/apr_noa/SNRA0_SC__VER_13/apr/outputs/pmsrvr_arrayp.apr_final.vg.gz,4,punit,F_pmsrvr_arrayp,pmsrvr_arrayp,No Subcell
+117,pmsrvr_disptop,pmsrvr_disptop,punit,2018-01-01,23:14:21.451160000,/p/hdk/archive/sdg74/noa/pmsrvr_disptop/apr_noa/SNRA1TI/apr/outputs/pmsrvr_disptop.apr_final.vg.gz,4,punit,F_pmsrvr_disptop,pmsrvr_disptop,No Subcell
+118,pmsrvr_fsmsp,pmsrvr_fsmsp,punit,2018-01-02,02:48:14.865701000,/p/hdk/archive/sdg74/noa/pmsrvr_fsmsp/apr_noa/SNRA0_SC__VER_15/apr/outputs/pmsrvr_fsmsp.apr_final.vg.gz,4,punit,F_pmsrvr_fsmsp,pmsrvr_fsmsp,No Subcell
+119,pmsrvr_ioregsp,pmsrvr_ioregsp,punit,2018-01-02,04:11:56.538434000,/p/hdk/archive/sdg74/noa/pmsrvr_ioregsp/apr_noa/SNRA1TI/apr/outputs/pmsrvr_ioregsp.apr_final.vg.gz,4,punit,F_pmsrvr_ioregsp,pmsrvr_ioregsp,No Subcell
+120,pmsrvr_srctop,pmsrvr_srctop,punit,NOT FOUND,NOT FOUND,NOT FOUND,4,punit,F_pmsrvr_srctop,pmsrvr_srctop,No Subcell
+121,pmsrvr_uctldp,pmsrvr_uctldp,punit,2018-01-02,06:35:56.594185000,/p/hdk/archive/sdg74/noa/pmsrvr_uctldp/apr_noa/SNRA1TI/apr/outputs/pmsrvr_uctldp.apr_final.vg.gz,4,punit,F_pmsrvr_uctldp,pmsrvr_uctldp,No Subcell
+171,,,scf_dummy,,,,4,scf_dummy,,,
+172,scf_dummy_miscpar,scf_dummy_miscpar,scf_dummy,NOT FOUND,NOT FOUND,NOT FOUND,4,scf_dummy,F_scf_dummy_miscpar,scf_dummy_miscpar,No Subcell
+258,,,scf_dummy,,,,4,scf_dummy,,,
+259,scf_dummy_miscpar,scf_dummy_miscpar,scf_dummy,NOT FOUND,NOT FOUND,NOT FOUND,4,scf_dummy,F_scf_dummy_miscpar,scf_dummy_miscpar,No Subcell
+173,,,scf_iocoh,,,,4,scf_iocoh,,,
+174,cms3_ncap,cms3_ncap,scf_iocoh,NOT FOUND,NOT FOUND,NOT FOUND,4,scf_iocoh,F_cms3_ncap,cms3_ncap,No Subcell
+175,m2iosf_iitcpar,m2iosf_iitcpar,scf_iocoh,2018-12-11,01:12:46.411255000,/p/hdk/archive/sdg74/noa/m2iosf_iitcpar/apr_noa/ICXSPXCCB0_PDX_VER_22/apr/outputs/m2iosf_iitcpar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_iitcpar,m2iosf_iitcpar,No Subcell
+176,m2iosf_iommupar,m2iosf_iommupar,scf_iocoh,2019-01-11,15:50:54.324870000,/p/hdk/archive/sdg74/noa/m2iosf_iommupar/apr_noa/SNRB0_PDX_VER_7/apr/outputs/m2iosf_iommupar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_iommupar,m2iosf_iommupar,No Subcell
+177,m2iosf_iotcpar,m2iosf_iotcpar,scf_iocoh,2019-01-04,13:43:07.232632000,/p/hdk/archive/sdg74/noa/m2iosf_iotcpar/apr_noa/ICXSPXCCB0_PDX_VER_14/apr/outputs/m2iosf_iotcpar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_iotcpar,m2iosf_iotcpar,No Subcell
+178,m2iosf_irppar,m2iosf_irppar,scf_iocoh,2018-11-05,02:11:23.379403000,/p/hdk/archive/sdg74/noa/m2iosf_irppar/apr_noa/SNRB0_PDX_VER_3/apr/outputs/m2iosf_irppar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_irppar,m2iosf_irppar,No Subcell
+179,m2iosf_m2pciepar,m2iosf_m2pciepar,scf_iocoh,2018-11-07,03:44:29.388915000,/p/hdk/archive/sdg74/noa/m2iosf_m2pciepar/apr_noa/SNRA0_PDX_VER_108/apr/outputs/m2iosf_m2pciepar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_m2pciepar,m2iosf_m2pciepar,No Subcell
+180,m2iosf_miscpar,m2iosf_miscpar_iocoh,scf_iocoh,2017-04-25,14:18:04.945446000,/p/hdk/archive/sdg74/noa/m2iosf_miscpar_iocoh/apr_noa/KNHA0_PDX_VER_20/apr/outputs/m2iosf_miscpar_iocoh.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_miscpar_iocoh,m2iosf_miscpar_iocoh,No Subcell
+260,,,scf_iocoh,,,,4,scf_iocoh,,,
+261,cms3_ncap,cms3_ncap,scf_iocoh,NOT FOUND,NOT FOUND,NOT FOUND,4,scf_iocoh,F_cms3_ncap,cms3_ncap,No Subcell
+262,m2iosf_iitcpar,m2iosf_iitcpar,scf_iocoh,2018-12-11,01:12:46.411255000,/p/hdk/archive/sdg74/noa/m2iosf_iitcpar/apr_noa/ICXSPXCCB0_PDX_VER_22/apr/outputs/m2iosf_iitcpar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_iitcpar,m2iosf_iitcpar,No Subcell
+263,m2iosf_iommupar,m2iosf_iommupar,scf_iocoh,2019-01-11,15:50:54.324870000,/p/hdk/archive/sdg74/noa/m2iosf_iommupar/apr_noa/SNRB0_PDX_VER_7/apr/outputs/m2iosf_iommupar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_iommupar,m2iosf_iommupar,No Subcell
+264,m2iosf_iotcpar,m2iosf_iotcpar,scf_iocoh,2019-01-04,13:43:07.232632000,/p/hdk/archive/sdg74/noa/m2iosf_iotcpar/apr_noa/ICXSPXCCB0_PDX_VER_14/apr/outputs/m2iosf_iotcpar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_iotcpar,m2iosf_iotcpar,No Subcell
+265,m2iosf_irppar,m2iosf_irppar,scf_iocoh,2018-11-05,02:11:23.379403000,/p/hdk/archive/sdg74/noa/m2iosf_irppar/apr_noa/SNRB0_PDX_VER_3/apr/outputs/m2iosf_irppar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_irppar,m2iosf_irppar,No Subcell
+266,m2iosf_m2pciepar,m2iosf_m2pciepar,scf_iocoh,2018-11-07,03:44:29.388915000,/p/hdk/archive/sdg74/noa/m2iosf_m2pciepar/apr_noa/SNRA0_PDX_VER_108/apr/outputs/m2iosf_m2pciepar.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_m2pciepar,m2iosf_m2pciepar,No Subcell
+267,m2iosf_miscpar,m2iosf_miscpar_iocoh,scf_iocoh,2017-04-25,14:18:04.945446000,/p/hdk/archive/sdg74/noa/m2iosf_miscpar_iocoh/apr_noa/KNHA0_PDX_VER_20/apr/outputs/m2iosf_miscpar_iocoh.apr_final.vg.gz,4,scf_iocoh,F_m2iosf_miscpar_iocoh,m2iosf_miscpar_iocoh,No Subcell
+90,,,sfp,,,,4,sfp,,,
+91,cha_sfsprstcvbnkx11s19c,cha_sfsprstcvbnkx11s19c,sfp,NOT FOUND,NOT FOUND,NOT FOUND,4,sfp,F_cha_sfsprstcvbnkx11s19c,cha_sfsprstcvbnkx11s19c,No Subcell
+92,cha_sfsprtagbnk11s35t,cha_sfsprtagbnk11s35t,sfp,NOT FOUND,NOT FOUND,NOT FOUND,4,sfp,F_cha_sfsprtagbnk11s35t,cha_sfsprtagbnk11s35t,No Subcell
+181,,,sprdino,,,,4,sprdino,,,
+182,dino,dino,sprdino,NOT FOUND,NOT FOUND,NOT FOUND,4,sprdino,P_hier_seq,dino,sub_template:sprdino
+191,,,sprubox,,,,4,sprubox,,,
+192,plaubox,plaubox,sprubox,NOT FOUND,NOT FOUND,NOT FOUND,4,sprubox,F_plaubox,plaubox,No Subcell
+193,scf_ubox,scf_ubox,sprubox,NOT FOUND,NOT FOUND,NOT FOUND,4,sprubox,P_hier_seq,scf_ubox,sub_template:sprubox
+198,,,upi_1x,,,,4,upi_1x,,,
+199,cms_upi_1x,cms3_ncap,upi_1x,NOT FOUND,NOT FOUND,NOT FOUND,4,upi_1x,F_cms3_ncap,cms3_ncap,No Subcell
+200,hsphy_wrapper_p,hsphy_wrapper_p,upi_1x,NOT FOUND,NOT FOUND,NOT FOUND,4,upi_1x,F_hsphy_wrapper_p,hsphy_wrapper_p,No Subcell
+201,ktigen3vnhp,ktigen3vnhp,upi_1x,2018-12-31,13:29:13.542295000,/p/hdk/archive/sdg74/noa/ktigen3vnhp/apr_noa/ICXSPXCCB0_IIN_VER_5/apr/outputs/ktigen3vnhp.apr_final.vg.gz,4,upi_1x,F_ktigen3vnhp,ktigen3vnhp,No Subcell
+202,ktiphlnp,ktiphlnp,upi_1x,2019-01-16,23:38:53.828691000,/p/hdk/archive/sdg74/noa/ktiphlnp/apr_noa/ICXSPXCCB0_IIN_VER_16/apr/outputs/ktiphlnp.apr_final.vg.gz,4,upi_1x,F_ktiphlnp,ktiphlnp,No Subcell
+203,m2upi_bgf_wrapper,m2upi_bgf_wrapper,upi_1x,NOT FOUND,NOT FOUND,NOT FOUND,4,upi_1x,F_m2upi_bgf_wrapper,m2upi_bgf_wrapper,No Subcell
+204,m2upichp,m2upichp,upi_1x,2018-12-31,05:54:31.974928000,/p/hdk/archive/sdg74/noa/m2upichp/apr_noa/ICXSPXCCB0_IIN_VER_8/apr/outputs/m2upichp.apr_final.vg.gz,4,upi_1x,F_m2upichp,m2upichp,No Subcell
+205,m2upiddp,m2upiddp,upi_1x,2018-12-31,07:44:40.400703000,/p/hdk/archive/sdg74/noa/m2upiddp/apr_noa/ICXSPXCCB0_IIN_VER_7/apr/outputs/m2upiddp.apr_final.vg.gz,4,upi_1x,F_m2upiddp,m2upiddp,No Subcell
+206,miscp,miscp,upi_1x,2019-01-14,11:43:01.291459000,/p/hdk/archive/sdg74/noa/miscp/apr_noa/ICXSPXCCB0_IIN_VER_20/apr/outputs/miscp.apr_final.vg.gz,4,upi_1x,F_miscp,miscp,No Subcell
+71,,,llchspr,,,,3,llchspr,,,
+72,cha_chassisp,cha_chassisp,llchspr,2018-06-15,05:48:15.805156000,/p/hdk/archive/sdg74/noa/cha_chassisp/apr_noa/ICXSPXCCB0LATEST/apr/outputs/cha_chassisp.apr_final.vg.gz,3,llchspr,F_cha_chassisp,cha_chassisp,No Subcell
+73,cha_datap,cha_datap,llchspr,2018-06-15,13:22:26.208225000,/p/hdk/archive/sdg74/noa/cha_datap/apr_noa/ICXSPXCCA0_SC__VER_139/apr/outputs/cha_datap.apr_final.vg.gz,3,llchspr,F_cha_datap,cha_datap,No Subcell
+74,cha_pipep,cha_pipep,llchspr,NOT FOUND,NOT FOUND,NOT FOUND,3,llchspr,F_cha_pipep,cha_pipep,No Subcell
+75,cha_pldp,cha_pldp,llchspr,2018-06-16,06:46:44.314992000,/p/hdk/archive/sdg74/noa/cha_pldp/apr_noa/ICXSPXCCA0_SC__VER_146/apr/outputs/cha_pldp.apr_final.vg.gz,3,llchspr,P_hier_seq,cha_pldp,sub_template:llchspr
+76,llcp,llcp,llchspr,NOT FOUND,NOT FOUND,NOT FOUND,3,llchspr,P_hier_seq,llcp,sub_template:llchspr
+77,sfp,sfp,llchspr,NOT FOUND,NOT FOUND,NOT FOUND,3,llchspr,P_hier_seq,sfp,sub_template:llchspr
+25,,,mcddr_mee,,,,3,mcddr_mee,,,
+26,mcchanddr1,mcchanddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,P_hier_seq,mcchanddr,sub_template:mcddr_mee
+27,mcchanddr0,mcchanddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,P_hier_seq,mcchanddr,sub_template:mcddr_mee
+28,parmcddbotddr,parmcddbotddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmcddbotddr,parmcddbotddr,No Subcell
+29,parmcdddcacheddr,parmcdddcacheddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,P_hier_seq,parmcdddcacheddr,sub_template:mcddr_mee
+30,parmcddtcachemddr,parmcddtcachemddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,P_hier_seq,parmcddtcachemddr,sub_template:mcddr_mee
+31,parmcddtcachenddr,parmcddtcachenddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,P_hier_seq,parmcddtcachenddr,sub_template:mcddr_mee
+32,parmcddtcachesddr,parmcddtcachesddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmcddtcachesddr,parmcddtcachesddr,No Subcell
+33,parmcddtopddr,parmcddtopddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmcddtopddr,parmcddtopddr,No Subcell
+34,parmcdfxbgfddr,parmcdfxbgfddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmcdfxbgfddr,parmcdfxbgfddr,No Subcell
+35,parmcdfxinfddr,parmcdfxinfddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmcdfxinfddr,parmcdfxinfddr,No Subcell
+36,parmchchanddr,parmchchanddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmchchanddr,parmchchanddr,No Subcell
+37,parmcsmeeddr1,parmcsmeeddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmcsmeeddr,parmcsmeeddr,No Subcell
+38,parmcsmeeddr0,parmcsmeeddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmcsmeeddr,parmcsmeeddr,No Subcell
+39,parmcvchanddr,parmcvchanddr,mcddr_mee,NOT FOUND,NOT FOUND,NOT FOUND,3,mcddr_mee,F_parmcvchanddr,parmcvchanddr,No Subcell
+322,,,mdf_s_h_0,,,,3,mdf_s_h_0,,,
+323,mdfs_hchnlp,mdfs_hchnlp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hchnlp,mdfs_hchnlp,No Subcell
+324,mdfs_hcp,mdfs_hcp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hcp,mdfs_hcp,No Subcell
+325,mdfs_hdatap,mdfs_hdatap,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hdatap,mdfs_hdatap,No Subcell
+326,mdfs_hpldp,mdfs_hpldp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hpldp,mdfs_hpldp,No Subcell
+333,,,mdf_s_h_0,,,,3,mdf_s_h_0,,,
+334,mdfs_hchnlp,mdfs_hchnlp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hchnlp,mdfs_hchnlp,No Subcell
+335,mdfs_hcp,mdfs_hcp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hcp,mdfs_hcp,No Subcell
+336,mdfs_hdatap,mdfs_hdatap,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hdatap,mdfs_hdatap,No Subcell
+337,mdfs_hpldp,mdfs_hpldp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hpldp,mdfs_hpldp,No Subcell
+343,,,mdf_s_h_0,,,,3,mdf_s_h_0,,,
+344,mdfs_hchnlp,mdfs_hchnlp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hchnlp,mdfs_hchnlp,No Subcell
+345,mdfs_hcp,mdfs_hcp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hcp,mdfs_hcp,No Subcell
+346,mdfs_hdatap,mdfs_hdatap,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hdatap,mdfs_hdatap,No Subcell
+347,mdfs_hpldp,mdfs_hpldp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hpldp,mdfs_hpldp,No Subcell
+7,,,mdf_s_h_0,,,,3,mdf_s_h_0,,,
+2085,mdfs_hchnlp,mdfs_hchnlp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hchnlp,mdfs_hchnlp,No Subcell
+2086,mdfs_hcp,mdfs_hcp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hcp,mdfs_hcp,No Subcell
+2087,mdfs_hdatap,mdfs_hdatap,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hdatap,mdfs_hdatap,No Subcell
+2088,mdfs_hpldp,mdfs_hpldp,mdf_s_h_0,NOT FOUND,NOT FOUND,NOT FOUND,3,mdf_s_h_0,F_mdfs_hpldp,mdfs_hpldp,No Subcell
+60,,,scf_memddr,,,,3,scf_memddr,,,
+61,cms3_tall,cms3_tall,scf_memddr,NOT FOUND,NOT FOUND,NOT FOUND,3,scf_memddr,F_cms3_tall,cms3_tall,No Subcell
+62,parmmchas,parmmchas,scf_memddr,2019-01-14,14:50:03.257945000,/p/hdk/archive/sdg74/noa/parmmchas/apr_noa/ICXSPXCCB0_SC__VER_12/apr/outputs/parmmchas.apr_final.vg.gz,3,scf_memddr,F_parmmchas,parmmchas,No Subcell
+63,parmmegr,parmmegr,scf_memddr,2019-01-08,10:57:16.476043000,/p/hdk/archive/sdg74/noa/parmmegr/apr_noa/ICXSPXCCB0_SC__VER_2/apr/outputs/parmmegr.apr_final.vg.gz,3,scf_memddr,F_parmmegr,parmmegr,No Subcell
+64,parmmingr,parmmingr,scf_memddr,2018-11-11,10:39:15.701883000,/p/hdk/archive/sdg74/noa/parmmingr/apr_noa/ICXSPXCCB0_SC__VER_4/apr/outputs/parmmingr.apr_final.vg.gz,3,scf_memddr,F_parmmingr,parmmingr,No Subcell
+97,,,sprmisc,,,,3,sprmisc,,,
+98,fivrddra,fivrddra,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_fivrddra,fivrddra,No Subcell
+99,gpio_sprsp,gpio_sprsp,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_gpio_sprsp,gpio_sprsp,No Subcell
+100,ibl_ss,ibl_ss,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,P_hier_seq,ibl_ss,sub_template:sprmisc
+101,miscfill0,miscfill0,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_miscfill0,miscfill0,No Subcell
+102,miscfill1,miscfill1,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_miscfill1,miscfill1,No Subcell
+103,miscvinf0,miscvinf0,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_miscvinf0,miscvinf0,No Subcell
+104,miscvinf1,miscvinf1,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_miscvinf1,miscvinf1,No Subcell
+105,punit,punit,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,P_hier_seq,punit,sub_template:sprmisc
+106,sprcgu,sprcgu,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_sprcgu,sprcgu,No Subcell
+107,sprfuse,sprfuse,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_sprfuse,sprfuse,No Subcell
+108,sprglobal_misc,sprglobal_misc,sprmisc,NOT FOUND,NOT FOUND,NOT FOUND,3,sprmisc,F_sprglobal_misc,sprglobal_misc,No Subcell
+122,,,sprxccnorth01,,,,3,sprxccnorth01,,,
+123,dinochnvinf,dinochnvinf,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_dinochnvinf,dinochnvinf,No Subcell
+124,hca,hca,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,P_hier_seq,hca,sub_template:sprxccnorth01
+125,hch0nfivr0,hch0nfivr0,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_hch0nfivr0,hch0nfivr0,No Subcell
+126,hch0nfivr1,hch0nfivr1,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_hch0nfivr1,hch0nfivr1,No Subcell
+127,hch0nvcfc,hch0nvcfc,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_hch0nvcfc,hch0nvcfc,No Subcell
+128,hch0nvinf,hch0nvinf,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_hch0nvinf,hch0nvinf,No Subcell
+129,hch1nfivr,hch1nfivr,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_hch1nfivr,hch1nfivr,No Subcell
+130,hch1nvcfc,hch1nvcfc,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_hch1nvcfc,hch1nvcfc,No Subcell
+131,hch1nvinf,hch1nvinf,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_hch1nvinf,hch1nvinf,No Subcell
+132,sprxccnorth01__hchvmeshrpt,hchvmeshrpt,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_hchvmeshrpt,hchvmeshrpt,No Subcell
+133,north01fill1,north01fill1,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_north01fill1,north01fill1,No Subcell
+134,north01fill2,north01fill2,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_north01fill2,north01fill2,No Subcell
+135,sprxccnorth01__scf_dummy,scf_dummy,sprxccnorth01,2016-12-02,13:42:29.054620000,/p/hdk/archive/sdg74/noa/scf_dummy/apr_noa/ICXSPXCCA0_PDX_VER_7/apr/outputs/scf_dummy.apr_final.vg.gz,3,sprxccnorth01,P_hier_seq,scf_dummy,sub_template:sprxccnorth01
+136,sprxccnorth01__scf_iocoh,scf_iocoh,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,P_hier_seq,scf_iocoh,sub_template:sprxccnorth01
+137,sprdino,sprdino,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,P_hier_seq,sprdino,sub_template:sprxccnorth01
+138,sprxccnorth01__sprhmeshjog,sprhmeshjog,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_sprhmeshjog,sprhmeshjog,No Subcell
+139,sprubox,sprubox,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,P_hier_seq,sprubox,sub_template:sprxccnorth01
+140,upi_1x,upi_1x,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,P_hier_seq,upi_1x,sub_template:sprxccnorth01
+141,upinvinf,upinvinf,sprxccnorth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth01,F_upinvinf,upinvinf,No Subcell
+207,,,sprxccnorth23,,,,3,sprxccnorth23,,,
+208,hch23nvcfc,hch23nvcfc,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch23nvcfc,hch23nvcfc,No Subcell
+209,hch2nfivr,hch2nfivr,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch2nfivr,hch2nfivr,No Subcell
+210,hch2nvcfc,hch2nvcfc,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch2nvcfc,hch2nvcfc,No Subcell
+211,hch2nvinf,hch2nvinf,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch2nvinf,hch2nvinf,No Subcell
+212,hch3nfivr,hch3nfivr,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch3nfivr,hch3nfivr,No Subcell
+213,hch3nvcfc,hch3nvcfc,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch3nvcfc,hch3nvcfc,No Subcell
+214,hch3nvinf,hch3nvinf,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch3nvinf,hch3nvinf,No Subcell
+215,hch4nvcfc,hch4nvcfc,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch4nvcfc,hch4nvcfc,No Subcell
+216,hch4nvinf,hch4nvinf,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hch4nvinf,hch4nvinf,No Subcell
+217,sprxccnorth23__hchvmeshrpt,hchvmeshrpt,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_hchvmeshrpt,hchvmeshrpt,No Subcell
+218,mdf_c_h_0,mdf_c_h_0,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_mdf_c_h_0,mdf_c_h_0,No Subcell
+219,sprxccnorth23__mdf_s_h_0,mdf_s_h_0,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,P_hier_seq,mdf_s_h_0,sub_template:sprxccnorth23
+220,sprxccnorth23__mdfhfivr,mdfhfivr,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_mdfhfivr,mdfhfivr,No Subcell
+221,north23fill0,north23fill0,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_north23fill0,north23fill0,No Subcell
+222,north23fill1,north23fill1,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_north23fill1,north23fill1,No Subcell
+223,north23fill2,north23fill2,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_north23fill2,north23fill2,No Subcell
+224,north23fill3,north23fill3,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_north23fill3,north23fill3,No Subcell
+225,pi5,pi5,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,P_hier_seq,pi5,sub_template:sprxccnorth23
+226,sprxccnorth23__scf_dummy,scf_dummy,sprxccnorth23,2016-12-02,13:42:29.054620000,/p/hdk/archive/sdg74/noa/scf_dummy/apr_noa/ICXSPXCCA0_PDX_VER_7/apr/outputs/scf_dummy.apr_final.vg.gz,3,sprxccnorth23,P_hier_seq,scf_dummy,sub_template:sprxccnorth23
+227,sprxccnorth23__scf_iocoh,scf_iocoh,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,P_hier_seq,scf_iocoh,sub_template:sprxccnorth23
+228,sprxccnorth23__sprhmeshjog,sprhmeshjog,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_sprhmeshjog,sprhmeshjog,No Subcell
+229,vchinf_mdf41,vchinf_mdf41,sprxccnorth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccnorth23,F_vchinf_mdf41,vchinf_mdf41,No Subcell
+271,,,sprxccsouth01,,,,3,sprxccsouth01,,,
+272,hch01svinf,hch01svinf,sprxccsouth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth01,F_hch01svinf,hch01svinf,No Subcell
+273,sprxccsouth01__mdf_c_v_0,mdf_c_v_0,sprxccsouth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth01,F_mdf_c_v_0,mdf_c_v_0,No Subcell
+274,sprxccsouth01__mdf_s_v_0,mdf_s_v_0,sprxccsouth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth01,P_hier_seq,mdf_s_v_0,sub_template:sprxccsouth01
+275,sprxccsouth01__mdfvfivr,mdfvfivr,sprxccsouth01,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth01,F_mdfvfivr,mdfvfivr,No Subcell
+281,,,sprxccsouth23,,,,3,sprxccsouth23,,,
+282,hch23svinf,hch23svinf,sprxccsouth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth23,F_hch23svinf,hch23svinf,No Subcell
+283,sprxccsouth23__mdf_c_v_0,mdf_c_v_0,sprxccsouth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth23,F_mdf_c_v_0,mdf_c_v_0,No Subcell
+284,sprxccsouth23__mdf_s_v_0,mdf_s_v_0,sprxccsouth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth23,P_hier_seq,mdf_s_v_0,sub_template:sprxccsouth23
+285,sprxccsouth23__mdfvfivr,mdfvfivr,sprxccsouth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth23,F_mdfvfivr,mdfvfivr,No Subcell
+286,south23fill0,south23fill0,sprxccsouth23,NOT FOUND,NOT FOUND,NOT FOUND,3,sprxccsouth23,F_south23fill0,south23fill0,No Subcell
+19,,,sprmcddr,,,,2,sprmcddr,,,
+20,ddrchv,ddrchv,sprmcddr,NOT FOUND,NOT FOUND,NOT FOUND,2,sprmcddr,F_ddrchv,ddrchv,No Subcell
+21,mcddr_mee,mcddr_mee,sprmcddr,NOT FOUND,NOT FOUND,NOT FOUND,2,sprmcddr,P_hier_seq,mcddr_mee,sub_template:sprmcddr
+22,mcfivr,mcfivr,sprmcddr,NOT FOUND,NOT FOUND,NOT FOUND,2,sprmcddr,F_mcfivr,mcfivr,No Subcell
+23,scf_memddr,scf_memddr,sprmcddr,NOT FOUND,NOT FOUND,NOT FOUND,2,sprmcddr,P_hier_seq,scf_memddr,sub_template:sprmcddr
+24,sprddr,sprddr,sprmcddr,NOT FOUND,NOT FOUND,NOT FOUND,2,sprmcddr,F_sprddr,sprddr,No Subcell
+65,,,sprtile,,,,2,sprtile,,,
+66,corevinf,corevinf,sprtile,NOT FOUND,NOT FOUND,NOT FOUND,2,sprtile,F_corevinf,corevinf,No Subcell
+67,fivrcore,fivrcore,sprtile,NOT FOUND,NOT FOUND,NOT FOUND,2,sprtile,F_fivrcore,fivrcore,No Subcell
+68,llchspr,llchspr,sprtile,NOT FOUND,NOT FOUND,NOT FOUND,2,sprtile,P_hier_seq,llchspr,sub_template:sprtile
+69,sprcore,sprcore,sprtile,NOT FOUND,NOT FOUND,NOT FOUND,2,sprtile,F_sprcore,sprcore,No Subcell
+70,sprtilevcfc,sprtilevcfc,sprtile,NOT FOUND,NOT FOUND,NOT FOUND,2,sprtile,F_sprtilevcfc,sprtilevcfc,No Subcell
+93,,,sprxccnorth,,,,2,sprxccnorth,,,
+94,sprmisc,sprmisc,sprxccnorth,NOT FOUND,NOT FOUND,NOT FOUND,2,sprxccnorth,P_hier_seq,sprmisc,sub_template:sprxccnorth
+95,sprxccnorth01,sprxccnorth01,sprxccnorth,NOT FOUND,NOT FOUND,NOT FOUND,2,sprxccnorth,P_hier_seq,sprxccnorth01,sub_template:sprxccnorth
+96,sprxccnorth23,sprxccnorth23,sprxccnorth,NOT FOUND,NOT FOUND,NOT FOUND,2,sprxccnorth,P_hier_seq,sprxccnorth23,sub_template:sprxccnorth
+268,,,sprxccsouth,,,,2,sprxccsouth,,,
+269,sprxccsouth01,sprxccsouth01,sprxccsouth,NOT FOUND,NOT FOUND,NOT FOUND,2,sprxccsouth,P_hier_seq,sprxccsouth01,sub_template:sprxccsouth
+270,sprxccsouth23,sprxccsouth23,sprxccsouth,NOT FOUND,NOT FOUND,NOT FOUND,2,sprxccsouth,P_hier_seq,sprxccsouth23,sub_template:sprxccsouth
+292,,,vch02,,,,2,vch02,,,
+293,vch02__coreckpar02,coreckpar02,vch02,NOT FOUND,NOT FOUND,NOT FOUND,2,vch02,F_coreckpar02,coreckpar02,No Subcell
+294,vch02__vchinf_corepair,vchinf_corepair,vch02,NOT FOUND,NOT FOUND,NOT FOUND,2,vch02,F_vchinf_corepair,vchinf_corepair,No Subcell
+295,,,vch03,,,,2,vch03,,,
+296,vch03__coreckpar03,coreckpar03,vch03,NOT FOUND,NOT FOUND,NOT FOUND,2,vch03,F_coreckpar03,coreckpar03,No Subcell
+297,mctilecfc0,mctilecfc0,vch03,NOT FOUND,NOT FOUND,NOT FOUND,2,vch03,F_mctilecfc0,mctilecfc0,No Subcell
+298,vchinf_mc,vchinf_mc,vch03,NOT FOUND,NOT FOUND,NOT FOUND,2,vch03,F_vchinf_mc,vchinf_mc,No Subcell
+299,,,vch04,,,,2,vch04,,,
+300,vch04__coreckpar04,coreckpar04,vch04,NOT FOUND,NOT FOUND,NOT FOUND,2,vch04,F_coreckpar04,coreckpar04,No Subcell
+301,vch04__vchinf_corepair,vchinf_corepair,vch04,NOT FOUND,NOT FOUND,NOT FOUND,2,vch04,F_vchinf_corepair,vchinf_corepair,No Subcell
+302,,,vch05,,,,2,vch05,,,
+303,vch05__coreckpar05,coreckpar05,vch05,NOT FOUND,NOT FOUND,NOT FOUND,2,vch05,F_coreckpar05,coreckpar05,No Subcell
+304,vch05__vchinf_corepair,vchinf_corepair,vch05,NOT FOUND,NOT FOUND,NOT FOUND,2,vch05,F_vchinf_corepair,vchinf_corepair,No Subcell
+305,,,vch22,,,,2,vch22,,,
+306,vch22__coreckpar02,coreckpar02,vch22,NOT FOUND,NOT FOUND,NOT FOUND,2,vch22,F_coreckpar02,coreckpar02,No Subcell
+307,vch22__vchinf_center,vchinf_center,vch22,NOT FOUND,NOT FOUND,NOT FOUND,2,vch22,F_vchinf_center,vchinf_center,No Subcell
+308,,,vch23,,,,2,vch23,,,
+309,vch23__coreckpar03,coreckpar03,vch23,NOT FOUND,NOT FOUND,NOT FOUND,2,vch23,F_coreckpar03,coreckpar03,No Subcell
+310,vch23__vchinf_center,vchinf_center,vch23,NOT FOUND,NOT FOUND,NOT FOUND,2,vch23,F_vchinf_center,vchinf_center,No Subcell
+311,,,vch24,,,,2,vch24,,,
+312,vch24__coreckpar04,coreckpar04,vch24,NOT FOUND,NOT FOUND,NOT FOUND,2,vch24,F_coreckpar04,coreckpar04,No Subcell
+313,vch24__vchinf_center,vchinf_center,vch24,NOT FOUND,NOT FOUND,NOT FOUND,2,vch24,F_vchinf_center,vchinf_center,No Subcell
+314,,,vch25,,,,2,vch25,,,
+315,vch25__coreckpar05,coreckpar05,vch25,NOT FOUND,NOT FOUND,NOT FOUND,2,vch25,F_coreckpar05,coreckpar05,No Subcell
+316,vch25__vchinf_center,vchinf_center,vch25,NOT FOUND,NOT FOUND,NOT FOUND,2,vch25,F_vchinf_center,vchinf_center,No Subcell
+317,,,vch42,,,,2,vch42,,,
+318,vch42__mdf_s_h_0,mdf_s_h_0,vch42,NOT FOUND,NOT FOUND,NOT FOUND,2,vch42,P_hier_seq,mdf_s_h_0,sub_template:vch42
+319,mdfckpar42,mdfckpar42,vch42,NOT FOUND,NOT FOUND,NOT FOUND,2,vch42,F_mdfckpar42,mdfckpar42,No Subcell
+320,vchcfc_mdf42,vchcfc_mdf42,vch42,NOT FOUND,NOT FOUND,NOT FOUND,2,vch42,F_vchcfc_mdf42,vchcfc_mdf42,No Subcell
+321,vchinf_mdf42,vchinf_mdf42,vch42,NOT FOUND,NOT FOUND,NOT FOUND,2,vch42,F_vchinf_mdf42,vchinf_mdf42,No Subcell
+327,,,vch43,,,,2,vch43,,,
+328,vch43__mdf_s_h_0,mdf_s_h_0,vch43,NOT FOUND,NOT FOUND,NOT FOUND,2,vch43,P_hier_seq,mdf_s_h_0,sub_template:vch43
+329,mdfckpar43,mdfckpar43,vch43,NOT FOUND,NOT FOUND,NOT FOUND,2,vch43,F_mdfckpar43,mdfckpar43,No Subcell
+330,vch43__mdfhfivr,mdfhfivr,vch43,NOT FOUND,NOT FOUND,NOT FOUND,2,vch43,F_mdfhfivr,mdfhfivr,No Subcell
+331,vchcfc_mdf43,vchcfc_mdf43,vch43,NOT FOUND,NOT FOUND,NOT FOUND,2,vch43,F_vchcfc_mdf43,vchcfc_mdf43,No Subcell
+332,vchinf_mdf43,vchinf_mdf43,vch43,NOT FOUND,NOT FOUND,NOT FOUND,2,vch43,F_vchinf_mdf43,vchinf_mdf43,No Subcell
+338,,,vch44,,,,2,vch44,,,
+339,vch44__mdf_s_h_0,mdf_s_h_0,vch44,NOT FOUND,NOT FOUND,NOT FOUND,2,vch44,P_hier_seq,mdf_s_h_0,sub_template:vch44
+340,mdfckpar44,mdfckpar44,vch44,NOT FOUND,NOT FOUND,NOT FOUND,2,vch44,F_mdfckpar44,mdfckpar44,No Subcell
+341,vchcfc_mdf44,vchcfc_mdf44,vch44,NOT FOUND,NOT FOUND,NOT FOUND,2,vch44,F_vchcfc_mdf44,vchcfc_mdf44,No Subcell
+342,vchinf_mdf44,vchinf_mdf44,vch44,NOT FOUND,NOT FOUND,NOT FOUND,2,vch44,F_vchinf_mdf44,vchinf_mdf44,No Subcell
+348,,,vch45,,,,2,vch45,,,
+0,vch45__mdf_s_h_0,mdf_s_h_0,vch45,NOT FOUND,NOT FOUND,NOT FOUND,2,vch45,P_hier_seq,mdf_s_h_0,sub_template:vch45
+1,mdfckpar45,mdfckpar45,vch45,NOT FOUND,NOT FOUND,NOT FOUND,2,vch45,F_mdfckpar45,mdfckpar45,No Subcell
+2,vch45__mdfhfivr,mdfhfivr,vch45,NOT FOUND,NOT FOUND,NOT FOUND,2,vch45,F_mdfhfivr,mdfhfivr,No Subcell
+3,vch,vch,vch45,NOT FOUND,NOT FOUND,NOT FOUND,2,vch45,F_vch,vch,No Subcell
+4,vch45fill0,vch45fill0,vch45,NOT FOUND,NOT FOUND,NOT FOUND,2,vch45,F_vch45fill0,vch45fill0,No Subcell
+5,vchcfc_mdf45,vchcfc_mdf45,vch45,NOT FOUND,NOT FOUND,NOT FOUND,2,vch45,F_vchcfc_mdf45,vchcfc_mdf45,No Subcell
+6,vchinf_mdf45,vchinf_mdf45,vch45,NOT FOUND,NOT FOUND,NOT FOUND,2,vch45,F_vchinf_mdf45,vchinf_mdf45,No Subcell
+0,meshswizzle,meshswizzle,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,F_meshswizzle,meshswizzle,No Subcell
+1,meshturn,meshturn,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,F_meshturn,meshturn,No Subcell
+2,sprmcddr,sprmcddr,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,sprmcddr,sub_template:sprspxcc
+3,sprtile,sprtile,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,sprtile,sub_template:sprspxcc
+4,sprxccfill0,sprxccfill0,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,F_sprxccfill0,sprxccfill0,No Subcell
+5,sprxccnorth,sprxccnorth,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,sprxccnorth,sub_template:sprspxcc
+6,sprxccsouth,sprxccsouth,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,sprxccsouth,sub_template:sprspxcc
+7,vch02,vch02,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch02,sub_template:sprspxcc
+8,vch03,vch03,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch03,sub_template:sprspxcc
+9,vch04,vch04,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch04,sub_template:sprspxcc
+10,vch05,vch05,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch05,sub_template:sprspxcc
+11,vch22,vch22,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch22,sub_template:sprspxcc
+12,vch23,vch23,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch23,sub_template:sprspxcc
+13,vch24,vch24,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch24,sub_template:sprspxcc
+14,vch25,vch25,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch25,sub_template:sprspxcc
+15,vch42,vch42,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch42,sub_template:sprspxcc
+16,vch43,vch43,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch43,sub_template:sprspxcc
+17,vch44,vch44,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch44,sub_template:sprspxcc
+18,vch45,vch45,sprspxcc,NOT FOUND,NOT FOUND,NOT FOUND,1,sprspxcc,P_hier_seq,vch45,sub_template:sprspxcc
