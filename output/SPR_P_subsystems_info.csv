@@ -3,4 +3,4 @@ Sheet_Type,Arch Product Rollup
 Sheet_Name,P_subsystems
 Sheet_Version,2019.02.05-11:32:42
 Commit_User,'jfstepha <jon.stephan@intel.com> 1549384362 -0500'
-Code_Status,GenericSheet.py:Modified!!! QISMAT.py:Modified!!! ArchProductRollup.py:ok
+Code_Status,GenericSheet.py:ok QISMAT.py:Modified!!! ArchProductRollup.py:ok
