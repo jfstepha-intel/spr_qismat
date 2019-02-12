@@ -165,18 +165,34 @@ if reload_FIT_tables or reload_comp_libs:
     my_read_arch_comp_lib(q, "m2iosf_iommupar")
     my_read_arch_comp_lib(q, "m2iosf_iitcpar")
     my_read_arch_comp_lib_syn(q, "scf_dummy_miscpar")
-    with open('spr_with_comp_lib.pkl', 'wb') as f: pickle.dump(q, f, pickle.HIGHEST_PROTOCOL)
-else:
-    with open('spr_with_comp_lib.pkl', 'rb') as f: q = pickle.load(f)
-
-if add_one_comp_lib:
-    with open('spr_with_comp_lib.pkl', 'rb') as f: q = pickle.load(f)
     my_read_arch_comp_lib(q, "pmsrvr_uctldp")
     my_read_arch_comp_lib_syn(q, "pmsrvr_srctop")
     my_read_arch_comp_lib(q, "pmsrvr_ioregsp")
     my_read_arch_comp_lib(q, "pmsrvr_fsmsp")
     my_read_arch_comp_lib(q, "pmsrvr_disptop")
     my_read_arch_comp_lib(q, "pmsrvr_arrayp")
+    my_read_arch_comp_lib_syn(q, "phb_vinf")
+    my_read_arch_comp_lib_syn(q, "phb_vccfc")
+    my_read_arch_comp_lib_syn(q, "parvnpipe")
+    my_read_arch_comp_lib_syn(q, "parvnpipe")
+    my_read_arch_comp_lib_syn(q, "parpi5psf")
+    my_read_arch_comp_lib_syn(q, "parpi5misc")
+    my_read_arch_comp_lib_syn(q, "parpi5gen4tl")
+    my_read_arch_comp_lib_syn(q, "parpi5gen4pl")
+    my_read_arch_comp_lib_syn(q, "parpi5gen4ll")
+    my_read_arch_comp_lib_syn(q, "par_pcie5x8tltx")
+    my_read_arch_comp_lib_syn(q, "par_pcie5x8tlrx")
+    my_read_arch_comp_lib_syn(q, "par_pcie5x8ll")
+    my_read_arch_comp_lib_syn(q, "par_ialcm_dp_top")
+    my_read_arch_comp_lib_syn(q, "par_fblpvn")
+    my_read_arch_comp_lib_syn(q, "par_fblptx")
+    with open('spr_with_comp_lib.pkl', 'wb') as f: pickle.dump(q, f, pickle.HIGHEST_PROTOCOL)
+else:
+    with open('spr_with_comp_lib.pkl', 'rb') as f: q = pickle.load(f)
+
+if add_one_comp_lib:
+    with open('spr_with_comp_lib.pkl', 'rb') as f: q = pickle.load(f)
+    my_read_arch_comp_lib_syn(q, "par_arbmux")
     with open('spr_with_comp_lib.pkl', 'wb') as f: pickle.dump(q, f, pickle.HIGHEST_PROTOCOL)
 
 if 'P_hier_seq' in q.sheet_list.keys():
@@ -228,4 +244,4 @@ n['total'] = n.match + n.default + n.not_found + n.error
 n['match_fraction'] = n.match / n.total
 print(n)
 
-q.sheet_list['P_hier_seq'].QISMAT_print(minrow=100,maxrow=140,cols=['Unit_Name','Subunit_Src_Sheet','Subunit_Name','Instance_Count','Total_SDC','Total_DUE'])
+q.sheet_list['P_hier_seq'].QISMAT_print(minrow=90,maxrow=120,cols=['Unit_Name','Subunit_Src_Sheet','Subunit_Name','Instance_Count','Total_SDC','Total_DUE'])
