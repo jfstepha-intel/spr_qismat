@@ -67,7 +67,7 @@ def my_read_arch_comp_lib(q,base_name):
 def my_read_arch_comp_lib_syn(q,base_name):
     print("##### loading %s #### " % base_name)
     sheet_name = "F_"+base_name+"_syn"
-    csv_file = '../../spr_stats_19ww04/syn/'+base_name+'.syn_final.vg.qismat.csv'
+    csv_file = 'stats/syn/'+base_name+'.syn_final.vg.qismat.csv'
     q.create_ArchCompLib(sheet_name, fitsource="FIT_seq", csv_filename=csv_file,
                          mapping=complibmap, do_calc=True)
     q.sheet_list[sheet_name].QISMAT_print(maxrow=10, cols=['Cluster_Name', 'Total_SDC', 'Total_DUE'])
@@ -140,13 +140,43 @@ if reload_FIT_tables or reload_comp_libs:
     my_read_arch_comp_lib_syn(q, "cms3_tall")
     my_read_arch_comp_lib_syn(q, "mdfs_hpldp")
     my_read_arch_comp_lib_syn(q, "mdfs_hdatap")
+    my_read_arch_comp_lib_syn(q, "parmcsmeeddr")
+    my_read_arch_comp_lib_syn(q, "parmchchanddr")
+    my_read_arch_comp_lib_syn(q, "parmcdfxinfddr")
+    my_read_arch_comp_lib_syn(q, "parmcddtopddr")
+    my_read_arch_comp_lib_syn(q, "parmcdfxbgfddr")
+    my_read_arch_comp_lib_syn(q, "parmcddtcachesddr")
+    my_read_arch_comp_lib_syn(q, "parmcddbotddr")
+    my_read_arch_comp_lib_syn(q, "sfp")
+    my_read_arch_comp_lib_syn(q, "llcp")
+    my_read_arch_comp_lib_syn(q, "cha_pipep")
+    my_read_arch_comp_lib(q, "miscp")
+    my_read_arch_comp_lib(q, "m2upiddp")
+    my_read_arch_comp_lib(q, "m2upichp")
+    my_read_arch_comp_lib_syn(q, "m2upi_bgf_wrapper")
+    my_read_arch_comp_lib(q, "ktiphlnp")
+    my_read_arch_comp_lib(q, "ktigen3vnhp")
+    my_read_arch_comp_lib_syn(q, "hsphy_wrapper_p")
+    my_read_arch_comp_lib_syn(q, "cms3_ncap")
+    my_read_arch_comp_lib(q, "m2iosf_miscpar_iocoh")
+    my_read_arch_comp_lib(q, "m2iosf_m2pciepar")
+    my_read_arch_comp_lib(q, "m2iosf_irppar")
+    my_read_arch_comp_lib(q, "m2iosf_iotcpar")
+    my_read_arch_comp_lib(q, "m2iosf_iommupar")
+    my_read_arch_comp_lib(q, "m2iosf_iitcpar")
+    my_read_arch_comp_lib_syn(q, "scf_dummy_miscpar")
     with open('spr_with_comp_lib.pkl', 'wb') as f: pickle.dump(q, f, pickle.HIGHEST_PROTOCOL)
 else:
     with open('spr_with_comp_lib.pkl', 'rb') as f: q = pickle.load(f)
 
 if add_one_comp_lib:
     with open('spr_with_comp_lib.pkl', 'rb') as f: q = pickle.load(f)
-    my_read_arch_comp_lib_syn(q, "mdfs_hdatap")
+    my_read_arch_comp_lib(q, "pmsrvr_uctldp")
+    my_read_arch_comp_lib_syn(q, "pmsrvr_srctop")
+    my_read_arch_comp_lib(q, "pmsrvr_ioregsp")
+    my_read_arch_comp_lib(q, "pmsrvr_fsmsp")
+    my_read_arch_comp_lib(q, "pmsrvr_disptop")
+    my_read_arch_comp_lib(q, "pmsrvr_arrayp")
     with open('spr_with_comp_lib.pkl', 'wb') as f: pickle.dump(q, f, pickle.HIGHEST_PROTOCOL)
 
 if 'P_hier_seq' in q.sheet_list.keys():
@@ -198,4 +228,4 @@ n['total'] = n.match + n.default + n.not_found + n.error
 n['match_fraction'] = n.match / n.total
 print(n)
 
-q.sheet_list['P_hier_seq'].QISMAT_print(minrow=180,maxrow=222,cols=['Unit_Name','Subunit_Src_Sheet','Subunit_Name','Instance_Count','Total_SDC','Total_DUE'])
+q.sheet_list['P_hier_seq'].QISMAT_print(minrow=100,maxrow=140,cols=['Unit_Name','Subunit_Src_Sheet','Subunit_Name','Instance_Count','Total_SDC','Total_DUE'])
