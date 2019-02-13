@@ -17,4 +17,6 @@ vi blocks_info_to_arch_rollup.py
 # I also edited these scripts to pull the syn version (which apparently 
 # is only a synthesis netlist), and am copying the reports to the stats dir
 
+get_upf_hier.pl -dir /nfs/sc/disks/sdg74_noble-linktree_15/noble/noa/sprspxcc/fe2be_noa/SPRSPXCCA0_PDX_VER_90/sprspxcc -topupf sprspxcc.upf > get_upf_hier_out.txt
+# Then, I ended up using the get_upf_hier_out to check the instances manually
 ```

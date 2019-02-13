@@ -294,4 +294,4 @@ n['total'] = n.match + n.default + n.not_found + n.error
 n['match_fraction'] = n.match / n.total
 print(n)
 
-q.sheet_list['P_hier_seq'].QISMAT_print(minrow=0,maxrow=45,cols=['Unit_Name','Subunit_Src_Sheet','Subunit_Name','Instance_Count','Total_SDC','Total_DUE'])
+#q.sheet_list['P_hier_seq'].QISMAT_print(minrow=278,maxrow=315,cols=['Unit_Name','Subunit_Src_Sheet','Subunit_Name','Instance_Count','Total_SDC','Total_DUE'])

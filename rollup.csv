@@ -1,6 +1,6 @@
-"Unit_Name","Subunit_Src_Sheet","Subunit_Name","Description","Comment","Instance_Count","","Scaling","SOFA_Voltage","Use_Voltage","GOT_GB","","User_SBU_SDC_AVF","User_SBU_DUE_AVF","User_MBU_SDC_AVF","User_MBU_DUE_AVF","","User_SBU_SDC","User_SBU_DUE","User_MBU_SDC","User_MBU_DUE",""
-"SPR_hier","","","Rollup by hierarchy","","","","","","","","","","","","","","","","","",""
-"SPR_hier","P_subsystems","top","","","1","","1","0.8","0.8","0.1","","","","","","","","","","",""
-"SPR_XCC","","","Sapphire Rapids XCC","","","","","","","","","","","","","","","","","",""
-"SPR_XCC","P_subsystems","top","","","1","","1","0.8","0.8","0.1","","","","","","","","","","",""
-"SPR_XCC","P_subsystems","llchspr","","","64","","1","0.8","0.8","0.1","","","","","","","","","","",""
+Unit_Name,Subunit_Src_Sheet,Subunit_Name,Description,Comment,Instance_Count,,Scaling,SOFA_Voltage,Use_Voltage,GOT_GB,,User_SBU_SDC_AVF,User_SBU_DUE_AVF,User_MBU_SDC_AVF,User_MBU_DUE_AVF,,User_SBU_SDC,User_SBU_DUE,User_MBU_SDC,User_MBU_DUE,
+SPR_hier,,,Rollup by hierarchy,,,,,,,,,,,,,,,,,,
+SPR_hier,P_hier_seq,sprspxcc,,,1,,1,0.8,0.8,0.1,,,,,,,,,,,
+SPR_XCC,,,Sapphire Rapids XCC,,,,,,,,,,,,,,,,,,
+SPR_XCC,P_subsystems,top,,,1,,1,0.8,0.8,0.1,,,,,,,,,,,
+SPR_XCC,P_subsystems,llchspr,,,64,,1,0.8,0.8,0.1,,,,,,,,,,,
