@@ -14,4 +14,7 @@ cd ..
 vi blocks_info_to_arch_rollup.py
 ../../pycharm-env/bin/python blocks_info_to_arch_rollup.py
 # the output of this can be used as an input to the QISMAT script
+# I also edited these scripts to pull the syn version (which apparently 
+# is only a synthesis netlist), and am copying the reports to the stats dir
+
 ```
