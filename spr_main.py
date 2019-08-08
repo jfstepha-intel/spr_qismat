@@ -9,8 +9,8 @@ pd.set_option('display.max_columns', 20)
 pd.set_option('display.width', 160)
 
 #####
-reload_FIT_tables = False
-reload_comp_libs = False
+reload_FIT_tables = True
+reload_comp_libs = True
 add_one_comp_lib = False
 
 excel_file = r'spr_fit_tables(JStephan)19ww04.xlsx'
@@ -175,7 +175,6 @@ if reload_FIT_tables or reload_comp_libs:
     my_read_arch_comp_lib_syn(q, "phb_vinf")
     my_read_arch_comp_lib_syn(q, "phb_vccfc")
     my_read_arch_comp_lib_syn(q, "parvnpipe")
-    my_read_arch_comp_lib_syn(q, "parvnpipe")
     my_read_arch_comp_lib_syn(q, "parpi5psf")
     my_read_arch_comp_lib_syn(q, "parpi5misc")
     my_read_arch_comp_lib_syn(q, "parpi5gen4tl")
@@ -189,14 +188,11 @@ if reload_FIT_tables or reload_comp_libs:
     my_read_arch_comp_lib_syn(q, "par_fblptx")
     my_read_arch_comp_lib_syn(q, "par_arbmux")
     my_read_arch_comp_lib_syn(q, "dd_tc_tlrd")
-    my_read_arch_comp_lib_syn(q, "dd_dctagbnk11s30t")
     my_read_arch_comp_lib_syn(q, "mdfs_vpldp")
     my_read_arch_comp_lib_syn(q, "mdfs_vcp")
     my_read_arch_comp_lib_syn(q, "mdfs_vdatap")
     my_read_arch_comp_lib_syn(q, "mdfs_vchnlp")
-    my_read_arch_comp_lib_syn(q, "mdfs_hpldp")
     my_read_arch_comp_lib_syn(q, "mdfs_hcp")
-    my_read_arch_comp_lib_syn(q, "mdfs_hdatap")
     my_read_arch_comp_lib_syn(q, "mdfs_hchnlp")
     my_read_arch_comp_lib_syn(q, "parmcscpqddr")
     my_read_arch_comp_lib_syn(q, "parmcscbsddr")

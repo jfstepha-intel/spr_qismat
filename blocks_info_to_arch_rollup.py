@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 Nan = np.NaN
 
-infilename = 'stats_19ww06/blocks_info_19ww06_with_sch.csv'
-outfilename = 'sprxcc_hier_19ww06.csv'
+infilename = 'stats_19ww32/blocks_info_19ww32_with_sch.csv'
+outfilename = 'sprxcc_hier_19ww32.csv'
 sheet_name = 'P_hier_seq'
 top='sprspxcc'
 

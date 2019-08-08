@@ -19,4 +19,8 @@ vi blocks_info_to_arch_rollup.py
 
 get_upf_hier.pl -dir /nfs/sc/disks/sdg74_noble-linktree_15/noble/noa/sprspxcc/fe2be_noa/SPRSPXCCA0_PDX_VER_90/sprspxcc -topupf sprspxcc.upf > get_upf_hier_out.txt
 # Then, I ended up using the get_upf_hier_out to check the instances manually
+#
+# RF list:
+grep -E '[0-9]+b[0-9]+e[0-9]r[0-9]w' *.hier.csv | grep tobottom | tee rf_list.txt
+grep -E 's742rf[0-9]+b[0-9]+e[0-9]r[0-9]w' *.vg  | tee rf_names.txt
 ```
