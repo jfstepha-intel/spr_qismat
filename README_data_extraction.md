@@ -24,3 +24,26 @@ get_upf_hier.pl -dir /nfs/sc/disks/sdg74_noble-linktree_15/noble/noa/sprspxcc/fe
 grep -E '[0-9]+b[0-9]+e[0-9]r[0-9]w' *.hier.csv | grep tobottom | tee rf_list.txt
 grep -E 's742rf[0-9]+b[0-9]+e[0-9]r[0-9]w' *.vg  | tee rf_names.txt
 ```
+RSER report Version:
+```
+
+setenv PATH /nfs/sc/disks/sdg74_3328/pycharm-env/bin:$PATH
+setenv PATH /nfs/sc/disks/sdg74_3328/PycharmProjects/spr_qismat/scripts/:$PATH
+
+cd stats_19wwXX
+
+blocks_info.pl -csv ',' -headers template,name,physical_parent,type,release,chops,sub_ip -sortby template > blocks_info_19wwXX.csv
+findallreports.sh
+pull_report_from_blocks_info.pl spr_blocks_info_19wwXX.txt report_list_sorted.txt > blocks_info_19wwXX_with_report.csv
+cd ..
+
+# edit the output filename: 
+vi blocks_info_to_arch_rollup.py
+../../pycharm-env/bin/python blocks_info_to_arch_rollup.py
+
+# the output of this can be used as an input to the QISMAT script
+# I also edited these scripts to pull the syn version (which apparently 
+get_upf_hier.pl -dir /nfs/sc/disks/sdg74_noble-linktree_15/noble/noa/sprspxcc/fe2be_noa/SPRSPXCCA0_PDX_VER_90/sprspxcc -topupf sprspxcc.upf > get_upf_hier_out.txt
+
+
+```
