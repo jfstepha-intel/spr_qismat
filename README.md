@@ -1,3 +1,7 @@
+#### do not use, this is the old version !!!!! ####
+
+Migrated from gitlab to github https://github.com/jfstepha-intel/spr_qismat.git
+
 # Sapphire Rapids QISMAT
 
 ## How to create a repository like this:
