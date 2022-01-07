@@ -1,4 +1,4 @@
-#### do not use, this is the old version !!!!! ####
+1/7/22 - Had to re-migrate again because it was screwed up the first time.
 
 Migrated from gitlab to github https://github.com/jfstepha-intel/spr_qismat.git
 
